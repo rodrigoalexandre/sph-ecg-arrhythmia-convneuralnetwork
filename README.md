@@ -13,9 +13,9 @@ This study aims to propose a **Convolutional Neural Network** model for classify
 ## **PROJECT STRUCTURE**
 
 |--- source<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- generate-csv-dataset.ipynb.ipynb (Python code to convert dataset original files to CSV)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- generate-csv-dataset.ipynb (Python code to convert dataset original files to CSV)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- preprocess-sph-dataset.ipynb (Python code to performe the exploratory data analysis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- conv-neuralnetwork-model.ipynb.ipynb (Python code to create and train a CNN model)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- conv-neuralnetwork-model.ipynb (Python code to create and train a CNN model)<br>
 |--- modelconfig<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The model configuration files<br>
 |--- dataset<br>
