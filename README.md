@@ -8,7 +8,7 @@ Project developed for the study presented in the article *"Classification of Car
 
 **Cardiac arrhythmias** are a disease with considerable incidence and prevalence worldwide, and their diagnosis can be complex due to the existence of different types of arrhythmias that share similar characteristics and make an accurate diagnosis difficult. Performing an accurate diagnosis of the type of arrhythmia that affects the individual is essential to assess the severity of the disorder and define the type of treatment most suitable for each case. Several studies have proposed **Machine Learning** and **Deep Learning** models for automatically classifying cardiac arrhythmias to help improve medical processes.
 
-This study aims to propose a **Convolutional Neural Network** model for classifying cardiac arrhythmias through the analysis of data from electrocardiograms. The proposed model achieved high accuracy in predicting arrhythmias and proved to be a useful tool for dealing with the problem in question..
+This study proposes a **Convolutional Neural Network** model for classifying cardiac arrhythmias through the analysis of data from electrocardiograms. The proposed model achieved high accuracy in predicting arrhythmias and proved to be a useful tool for dealing with the problem in question..
 <br><br>
 ## **PROJECT STRUCTURE**
 
