@@ -2,7 +2,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/sph-ecg-arrhythmia-convneuralnetwork)
 ![GitHub top language](https://img.shields.io/github/languages/top/rodrigoalexandre/sph-ecg-arrhythmia-convneuralnetwork)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/sph-ecg-arrhythmia-convneuralnetwork)
-## **DESCRIPTION**
+## 📝 **DESCRIPTION**
 
 Project developed for the study presented in the article *"Classification of Cardiac Arrhythmias Based on Electrocardiogram Data Using a Convolutional Neural Network Model"* published by *European Journal of Engineering Science and Technology* (Volume 07, Issue 2, Dec. 2024). 
 
@@ -10,7 +10,7 @@ Project developed for the study presented in the article *"Classification of Car
 
 This study proposes a **Convolutional Neural Network** model for classifying cardiac arrhythmias through the analysis of data from electrocardiograms. The proposed model achieved high accuracy in predicting arrhythmias and proved to be a useful tool for dealing with the problem in question..
 <br><br>
-## **PROJECT STRUCTURE**
+## 📂 **PROJECT STRUCTURE**
 
 |--- source<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- generate-csv-dataset.ipynb (Python code to convert dataset original files to CSV)<br>
@@ -21,13 +21,13 @@ This study proposes a **Convolutional Neural Network** model for classifying car
 |--- dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The dataset location
 <br><br>
-## **ARTICLE LINK**
+## 🔗 **ARTICLE LINK**
 
 https://doi.org/10.33422/ejest.v7i2.1354
 <br><br>
-## **RESOURCES**
+## ⚙️ **RESOURCES**
 The dataset used in this study is publicly available at: https://doi.org/10.6084/m9.figshare.c.5779802.v1
 <br><br>
-## **LICENSE**
+## 🛡 **LICENSE**
 This project is available under the **MIT license**. See the LICENSE file for more details.
 <br><br>
